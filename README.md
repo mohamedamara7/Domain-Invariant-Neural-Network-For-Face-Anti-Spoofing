@@ -1,4 +1,4 @@
-# Domain-Invariant-Neural-Network-For-Face-Ant-Spoofing
+# Domain-Invariant-Neural-Network-For-Face-Anti-Spoofing
 
 This repository contains a neural network model for face anti-spoofing, trained on the CelebA Spoof for Face-AntiSpoofing dataset. The dataset can be found on Kaggle: [CelebA Spoof for Face-AntiSpoofing](https://www.kaggle.com/datasets/attentionlayer241/celeba-spoof-for-face-antispoofing).
 

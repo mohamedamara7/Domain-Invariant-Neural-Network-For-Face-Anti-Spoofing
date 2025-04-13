@@ -14,7 +14,7 @@ Initially, I experimented with different color spaces on a part of the dataset t
 
 - **YUV**: 63.45%
 - **YCBCR**: 63.78%
-- **RGB**: 0.74%
+- **RGB**: 74%
 - **HSV**: 77.45%
 
 Based on these results, the HSV color space had the highest accuracy, so I decided to proceed with it.
